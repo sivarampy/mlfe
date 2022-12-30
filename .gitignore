@@ -394,3 +394,6 @@ _deps
 *.exe
 *.out
 *.app
+
+ideas.txt
+model.dio
